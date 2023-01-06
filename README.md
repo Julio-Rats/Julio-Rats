@@ -98,3 +98,8 @@ Computer scientist focused on the area of ​​optimization and Back-End develo
 <br>
 
 ![github snake animation](https://github.com/Julio-Rats/Julio-Rats/blob/main/snake.svg)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Julio-Rats/count.svg" />
+</p>
