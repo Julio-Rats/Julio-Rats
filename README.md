@@ -97,4 +97,4 @@ Computer scientist focused on the area of ​​optimization and Back-End develo
 
 <br>
 
-![github snake animation](https://raw.githubusercontent.com/MandyNeumeyer/MandyNeumeyer/output/github-contribution-grid-snake.svg)
+![github snake animation](https://raw.githubusercontent.com/Julio-Rats/Julio-Rats/output/github-contribution-grid-snake.svg)
