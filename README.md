@@ -80,25 +80,18 @@ Computer scientist focused on the area of ​​optimization and Back-End develo
 🎮 Interested in game creation and gameplay with friends
 
 🔭 I live creating strange things around.
-
+    
 <div align="center">
-
-  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=Julio-Rats&theme=radical"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julio-Rats&theme=aura&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-Rats&layout=compact&langs_count=8&theme=aura"/>
 </div>
 
-<br>
-
 <div align="center">
-
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-Rats&layout=compact&langs_count=8&theme=radical"/>
-
-</div>
-
-<br>
-
+    
 ![github snake animation](https://github.com/Julio-Rats/Julio-Rats/blob/main/snake.svg)
-
+    
+</div>
+    
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Julio-Rats/count.svg" />
