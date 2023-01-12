@@ -41,9 +41,7 @@ int main(int argc, char const *argv[])
 
 <div align="center">
 
- ![](https://raw.githubusercontent.com/Julio-Rats/Julio-Rats/main/profile-summary-card-output/2077/0-profile-details.svg)
-
-  ### 👉 Nickname: JulioRats 👈
+### 👉 Nickname: JulioRats 👈
 
 </div>
 
@@ -82,11 +80,17 @@ Computer scientist focused on the area of ​​optimization and Back-End develo
     
 <div align="center">
 
- [![](https://raw.githubusercontent.com/Julio-Rats/Julio-Rats/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Julio-Rats/Julio-Rats/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://raw.githubusercontent.com/Julio-Rats/Julio-Rats/main/profile-summary-card-output/2077/0-profile-details.svg)
+[![](https://raw.githubusercontent.com/Julio-Rats/Julio-Rats/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Julio-Rats/Julio-Rats/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Julio-Rats/Julio-Rats/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Julio-Rats/Julio-Rats/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
+<div align="center">
+
+![github snake animation](https://github.com/Julio-Rats/Julio-Rats/blob/main/snake.svg)
+
+</div>
     
 <p align="center"> 
   Visitor Count<br>
