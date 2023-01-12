@@ -1,4 +1,4 @@
-name: GitHub-Profile-Summary-Cards
+name: Status-Github-Porfile
 
 on:
   schedule: # execute every 12 hours
