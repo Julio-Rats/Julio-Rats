@@ -2,7 +2,7 @@
 
 ### My states programming:
 
-<img  align="MIDDLE" width="370" height="250" src="https://media.licdn.com/dms/image/C5612AQGVDduy7vnxKQ/article-cover_image-shrink_423_752/0/1612802280321?e=1679529600&v=beta&t=uFfqOrB0Unak_ERUnYiMbvXITzn5ikUXzQqZxCgnaCU"/>
+<img  align="MIDDLE" width="370" height="250" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif"/>
 <img  align="MIDDLE" width="370" height="250" src="https://www.icegif.com/wp-content/uploads/icegif-6438.gif"/>
 </div>
 
