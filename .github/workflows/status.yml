@@ -4,8 +4,8 @@ on:
   create:
   push:
   schedule:
-     # every 6 hours
-    - cron: "0 */6 * * *"
+     # every 72 hours
+    - cron: "0 */72 * * *"
   workflow_dispatch:
 
 jobs:
