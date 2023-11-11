@@ -19,7 +19,7 @@ void print_presentation()
     printf("%s\n", "Hi there, I'm Julio C.M. Cândido!");
     printf("%s\n", "Living in Formiga-MG, Brazil.");
     printf("%s\n", "27 years old.");
-    printf("%s\n", "Low Level, Optimization.");
+    printf("%s\n", "Low Level/Assembly Programmer");
 }
 
 int main(int argc, char const *argv[])
