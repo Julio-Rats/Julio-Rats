@@ -24,9 +24,9 @@ void print_presentation()
 
 int main(int argc, char const *argv[])
 {
+    soul_t soulID = born();
     print_presentation();
-    bool life = true;
-    while (life)
+    while (still_alive(&soulID))
     {
       wake_up();
       code();
