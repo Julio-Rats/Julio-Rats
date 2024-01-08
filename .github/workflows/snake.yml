@@ -3,8 +3,8 @@ name: snake animation
 on:
   workflow_dispatch:
   schedule:
-      # every 72 hours
-    - cron: "* * */7 * *"
+      # every week
+    - cron: "0 0 1/7 * *"
 
 jobs:
   generate:
