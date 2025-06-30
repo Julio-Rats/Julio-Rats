@@ -51,8 +51,8 @@ int main(int argc, char const *argv[])
   <a target='_blank' href="https://linkedin.com/in/ifmg-jcmc/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://twitch.tv/juliorats" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a target='_blank' href="https://instagram.com/juliocmcandido/">
+  <a href="https://twitch.tv/julio_rats" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a target='_blank' href="https://instagram.com/julio_rats/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a target='_blank' href="mailto:juliocesarifmg@gmail.com">
