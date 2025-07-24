@@ -86,15 +86,13 @@ Computer scientist focused on the area of ​​optimization and Back-End develo
 [![](https://raw.githubusercontent.com/Julio-Rats/Julio-Rats/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Julio-Rats/Julio-Rats/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-</div>
-
 <div align="center">
 
-![github snake animation](https://github.com/Julio-Rats/Julio-Rats/blob/main/snake.svg)
+  ![github snake animation](https://github.com/Julio-Rats/Julio-Rats/blob/main/snake.svg)
+
+  <br><br>
+  Visitor Count<br>
+  
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Julio-Rats.Julio-Rats)
 
 </div>
-    
-<p align="center"> 
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/Julio-Rats/count.svg" />
-</p>
