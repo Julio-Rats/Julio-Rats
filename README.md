@@ -18,7 +18,7 @@ void print_presentation()
 {
     printf("%s\n", "Hi there, I'm Julio C.M. Cândido!");
     printf("%s\n", "Living in Formiga-MG, Brazil.");
-    printf("%s\n", "29 years old.");
+    printf("%s\n", "30 years old.");
     printf("%s\n", "Low-Level/Assembly Lang Programmer");
 }
 
@@ -86,15 +86,13 @@ Computer scientist focused on the area of ​​optimization and Back-End develo
 [![](https://raw.githubusercontent.com/Julio-Rats/Julio-Rats/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Julio-Rats/Julio-Rats/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-</div>
-
 <div align="center">
 
-![github snake animation](https://github.com/Julio-Rats/Julio-Rats/blob/main/snake.svg)
+  ![github snake animation](https://github.com/Julio-Rats/Julio-Rats/blob/main/snake.svg)
+
+  <br><br>
+  Visitor Count<br>
+  
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Julio-Rats.Julio-Rats)
 
 </div>
-    
-<p align="center"> 
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/Julio-Rats/count.svg" />
-</p>
