@@ -17,9 +17,10 @@
 void print_presentation()
 {
     printf("%s\n", "Hi there, I'm Julio C.M. Cândido!");
-    printf("%s\n", "Living in Formiga-MG, Brazil.");
+    printf("%s\n", "Living in Belo Horizonte - MG, Brazil.");
     printf("%s\n", "30 years old.");
-    printf("%s\n", "Low-Level/Assembly Lang Programmer");
+    printf("%s\n", "Embedded Software and Assembly Lang Programmer");
+    printf("%s\n", "Working at Aiko Logic");
 }
 
 int main(int argc, char const *argv[])
